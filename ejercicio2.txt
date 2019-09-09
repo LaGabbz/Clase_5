@@ -1,0 +1,12 @@
+INICIO
+nivelJuego
+SI nivelJuego <=9 Entonces
+Escribe "Aprendiz"
+fin-SI
+SI nivelJuego <=19 Entonces
+Escribe "Acrobata"
+SINO
+Escribe "ninja"
+FIN-SI
+
+FIN

@@ -1,0 +1,9 @@
+INICIO
+Leer Contraseña
+Leer Nombre
+Si Contraseña == Gabriela && Nombre == Gabriela ENTONCES
+Escribe "acceso consedido"
+SINO
+Escribe "sigue participando"
+FIN-SI
+FIN

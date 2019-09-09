@@ -1,0 +1,13 @@
+INICIO
+Leer NumeroDado1, NumeroDado2, NumeroDado3
+SI NumeroDado1 == NumeroDado2 ENTONCES
+Escribe "ganaste"
+SINO
+Si NumeroDado3 == NumeroDado2 ENTONCES
+Escribe "ganaste"
+SINO
+SI NumeroDado1 == NumeroDado3 ENTONCES
+Escribe "ganaste"
+SINO
+Escribe "perdedor"
+FIN-SI

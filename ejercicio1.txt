@@ -1,0 +1,8 @@
+INICIO
+boolean = hambre 
+Si hambre = true Entonces
+Escribe "triste"
+SINO
+Escribe "feliz"
+FIN-SI
+FIN

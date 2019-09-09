@@ -1,0 +1,22 @@
+INICIO
+Leer diaDeLaSemana
+Lunes, Miercoles = Historia
+Martes = Natacion
+Jueves = esgrima
+Viernes, sabado, domingo = Descanso
+
+SI diaDeLaSemana = Lunes o Miercoles Entonces
+Escribe "Historia"
+fin-si
+SINO
+SI diaDeLaSemana = Martes Entonces
+Escribe "Natacion"
+fin-si
+SINO
+SI diaDeLaSemana = Jueves Entonces
+Escribe "Esgrima"
+SINO 
+Escribe "descanso"
+
+FIN-SI
+FIN

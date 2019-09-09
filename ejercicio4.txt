@@ -1,0 +1,9 @@
+INICIO
+Leer Examen1, Examen2, Examen3
+Promedio = (Examen1+Examen2+Examen3)/3
+Si Promedio > 8.5 Entonces
+Escribe "La libraste"
+SINO
+Escribe "Castigado"
+FIN-SI
+FIN
